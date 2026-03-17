@@ -1,0 +1,10 @@
+<suite name="Bank Suite">
+
+    <test name="Login Test">
+        <classes>
+            <class name="tests.LoginTest"/>
+            <class name="tests.FundTransferTest"/>
+        </classes>
+    </test>
+
+</suite>
